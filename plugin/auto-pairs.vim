@@ -1,11 +1,7 @@
 " Insert or delete brackets, parens, quotes in pairs.
-" Maintainer:	JiangMiao <jiangfriend@gmail.com>
-" Contributor: camthompson
-" Last Change:  2013-07-13
-" Version: 1.3.2
-" Homepage: http://www.vim.org/scripts/script.php?script_id=3599
-" Repository: https://github.com/jiangmiao/auto-pairs
-" License: MIT
+" Maintainer:	gisphm <phmfk@hotmail.com>
+" Repository: https://github.com/gisphm/auto-pairs
+" License: Apache
 
 if exists('g:AutoPairsLoaded') || &cp
     finish
